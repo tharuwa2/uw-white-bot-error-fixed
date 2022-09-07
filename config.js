@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
+global.owner = ['94766322316'] //ur owner number
+global.ownername = "Tharuwa "
+global.ytname = "YT:"Tharuwa official" //ur yt chanel name
 global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
 global.location = "Sri-Lanka" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "Tharuwa WhatsApp Bot" //ur bot name
+global.websitex = "https://youtube.com/channel/UCs_KFgWyqoyK4tnuNfBGEbg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "Tharuwa Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Udavin Wijesundara"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
+global.ownertag = ['94766322316'] //ur owner tag
+global.ownernummenu = ['94766322316'] //ur owner number in menu and all
+global.watermark = "Tharuwa WhatsApp Bot." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.linkz1 = "https://chat.whatsapp.com/J1aPYSeaV0y10ZwUN5yWcN"
+global.linkz2 = "https://chat.whatsapp.com/IUSH3E3lyPhLiTex4e4EEc"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
